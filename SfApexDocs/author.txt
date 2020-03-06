@@ -1,0 +1,2 @@
+projectName = "The Philadelphia Inquirer - Salesforce"
+author = "Product and Engineering"
